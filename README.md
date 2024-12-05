@@ -4,6 +4,7 @@ This repository contains the code for calculating perturbation parameters measur
 The implementation is specifically designed for the analysis of belt-based perturbations.
 
 **Features**
+
 Languages Supported: 
 Python and MATLAB.
 Sample Data Included: 
@@ -12,8 +13,10 @@ Flexible Analysis:
 The code can be adapted to different experimental setups.
 
 **Getting Started**
+
 Download the folder
 Choose your preferred language (Python or MATLAB).
 
 **Contributing**
+
 Contributions are welcome! If you'd like to improve the code or add features, please let me know.
