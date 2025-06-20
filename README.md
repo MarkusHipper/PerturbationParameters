@@ -9,7 +9,7 @@ The implementation is specifically designed for the analysis of belt-based pertu
 MATLAB.
 
 - Sample Data Included: 
-A sample dataset is provided for both languages to demonstrate the workflow and facilitate testing.
+A sample dataset is provided to demonstrate the workflow and facilitate testing.
 
 - Flexible Analysis: 
 The code can be adapted to different experimental setups.
@@ -17,7 +17,6 @@ The code can be adapted to different experimental setups.
 **Getting Started**
 
 - Download the folder
-- Choose your preferred language (Python or MATLAB).
 
 **Contributing**
 
