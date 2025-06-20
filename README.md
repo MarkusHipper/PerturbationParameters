@@ -6,7 +6,7 @@ The implementation is specifically designed for the analysis of belt-based pertu
 **Features**
 
 - Languages Supported: 
-Python and MATLAB.
+MATLAB.
 
 - Sample Data Included: 
 A sample dataset is provided for both languages to demonstrate the workflow and facilitate testing.
